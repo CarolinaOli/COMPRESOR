@@ -1,0 +1,7 @@
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\bin\Debug\netstandard2.0\QuickLZ.deps.json
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\bin\Debug\netstandard2.0\QuickLZ.dll
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\bin\Debug\netstandard2.0\QuickLZ.pdb
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\obj\Debug\netstandard2.0\QuickLZ.AssemblyInfoInputs.cache
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\obj\Debug\netstandard2.0\QuickLZ.AssemblyInfo.cs
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\obj\Debug\netstandard2.0\QuickLZ.dll
+C:\Users\caroo\OneDrive\Documentos\GitHub\QuickLZ\QuickLZ\obj\Debug\netstandard2.0\QuickLZ.pdb
